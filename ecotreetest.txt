@@ -1,0 +1,13 @@
+bads : 
+1) L11 : props aren't typed
+2) he can't change the state like this, he should copy the
+state in another variable then reset it with setState(newVariable)
+3) L20 : is avoidable, he should return all the jsx at once with conditional rendering
+4) state should be declared with let and not const, same for the function upDateScore, target and user
+5) L36 : weird call of the function updateScore, should put {updateScore} only
+6) UserContext isn't declared anywhere
+7) The return will not render JSX if there is no parent element to contain it
+
+goods :
+
+1) interface for typing the state

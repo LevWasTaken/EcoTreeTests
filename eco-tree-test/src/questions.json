@@ -1,0 +1,35 @@
+{
+    "questions": [{
+            "name": "Comment appelle-t-on des arbres qui perdent leurs feuilles en automne ?",
+            "nb": 1
+        },
+        {
+            "name": "Comment appelle-t-on une forêt dans laquelle poussent une majorité de hêtres ?",
+            "nb": 2
+        },
+        {
+            "name": "Comment appelle-t-on une forêt dans laquelle poussent une majorité de pins ?",
+            "nb": 3
+        },
+        {
+            "name": "Quel est le fruit du chêne ?",
+            "nb": 4
+        },
+        {
+            "name": "Combien de temps peut vivre un châtaignier ?",
+            "nb": 5
+        },
+        {
+            "name": "la forêt française est-elle surexploitée?",
+            "nb": 6
+        },
+        {
+            "name": "Quelle surface de forêt est déffriché chaques années dans le monde?",
+            "nb": 7
+        },
+        {
+            "name": "De toutes les émissions de CO2, combien de pourcentages la déforestation représent elle ?",
+            "nb": 8
+        }
+    ]
+}
